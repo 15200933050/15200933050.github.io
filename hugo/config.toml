@@ -1,0 +1,4 @@
+baseURL = "http://15200933050.github.io"
+languageCode = "en-us"
+title = "阿猪猪的文档"
+theme = "hugo-theme-air"
